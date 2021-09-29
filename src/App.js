@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import { JSXElementConstructor } from 'react';
 
 function App() {
   return (
@@ -9,14 +10,8 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-           React Tutorials through VS Code but not through command line
-        </a>
+        <button>Click Me</button>
+        
       </header>
     </div>
   );
