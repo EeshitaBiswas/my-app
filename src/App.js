@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-           React Tutorials through VS Code
+           React Tutorials through VS Code but not command line
         </a>
       </header>
     </div>
